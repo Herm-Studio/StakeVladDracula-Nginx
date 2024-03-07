@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: Herm-Studio/StakeVladDracula-Nginx:latest
+            tags: herm-studio/stakevladdracula-nginx:latest
